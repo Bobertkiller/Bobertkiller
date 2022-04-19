@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on some projects 
-- 📫 How to reach me ...
+- 📫 How to reach me 𝑩𝑰𝑮 𝑴𝑨𝒁𝒁 ♣#2191
 
 <!---
 Bobertkiller/Bobertkiller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
