@@ -16,7 +16,7 @@
   ### Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
-  <a href="" target="https://www.youtube.com/channel/UCY_N2EvR7_tRjxkUM_ldyqw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="https://www.youtube.com/channel/UCY_N2EvR7_tRjxkUM_ldyqw"></a>
+  <a href="https://www.youtube.com/channel/UCY_N2EvR7_tRjxkUM_ldyqw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href=""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
